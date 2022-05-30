@@ -1,0 +1,15 @@
+C:\Users\mrive\repos\shortStoryExercise1\shortStoryExercise1\obj\Debug\net6.0\shortStoryExercise1.csproj.AssemblyReference.cache
+C:\Users\mrive\repos\shortStoryExercise1\shortStoryExercise1\obj\Debug\net6.0\shortStoryExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrive\repos\shortStoryExercise1\shortStoryExercise1\obj\Debug\net6.0\shortStoryExercise1.AssemblyInfoInputs.cache
+C:\Users\mrive\repos\shortStoryExercise1\shortStoryExercise1\obj\Debug\net6.0\shortStoryExercise1.AssemblyInfo.cs
+C:\Users\mrive\repos\shortStoryExercise1\shortStoryExercise1\obj\Debug\net6.0\shortStoryExercise1.csproj.CoreCompileInputs.cache
+C:\Users\mrive\repos\shortStoryExercise1\shortStoryExercise1\bin\Debug\net6.0\shortStoryExercise1.exe
+C:\Users\mrive\repos\shortStoryExercise1\shortStoryExercise1\bin\Debug\net6.0\shortStoryExercise1.deps.json
+C:\Users\mrive\repos\shortStoryExercise1\shortStoryExercise1\bin\Debug\net6.0\shortStoryExercise1.runtimeconfig.json
+C:\Users\mrive\repos\shortStoryExercise1\shortStoryExercise1\bin\Debug\net6.0\shortStoryExercise1.dll
+C:\Users\mrive\repos\shortStoryExercise1\shortStoryExercise1\bin\Debug\net6.0\shortStoryExercise1.pdb
+C:\Users\mrive\repos\shortStoryExercise1\shortStoryExercise1\obj\Debug\net6.0\shortStoryExercise1.dll
+C:\Users\mrive\repos\shortStoryExercise1\shortStoryExercise1\obj\Debug\net6.0\refint\shortStoryExercise1.dll
+C:\Users\mrive\repos\shortStoryExercise1\shortStoryExercise1\obj\Debug\net6.0\shortStoryExercise1.pdb
+C:\Users\mrive\repos\shortStoryExercise1\shortStoryExercise1\obj\Debug\net6.0\shortStoryExercise1.genruntimeconfig.cache
+C:\Users\mrive\repos\shortStoryExercise1\shortStoryExercise1\obj\Debug\net6.0\ref\shortStoryExercise1.dll
